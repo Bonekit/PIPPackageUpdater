@@ -1,13 +1,13 @@
 
-# Title                 : PIP Updater v1.0
-# Description           : PIP Updater v1.0
+# Title                 : PIP Package Updater v1.0
+# Description           : PIP Package Updater v1.0
 # Author                : Tobias Menzel
 # Date                  : 09.10.2018
 # Notes                 : Only for PIP Versions >= 10.0.1
 # Python_version        : 3.7
 # ==========================================================================================
 
-# Import modules for the PIP Updater
+# Import modules for the pip package updater.
 from subprocess import call
 import pkg_resources
 
