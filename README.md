@@ -1,11 +1,11 @@
+---
+Author: Tobias Menzel  
+Language: Python 3.7  
+Date: 09.10.2018
+---
 # PIP Package Updater
 
 Little script to update all installed packages.  
-Works great!
-
-## Build With
-
-- Python 3.7.0 32bit
 
 ## Tested On
 
