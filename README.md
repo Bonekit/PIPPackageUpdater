@@ -12,6 +12,9 @@ Little script to update all installed packages.
 Windows 10 Pro v1803
 with pip v18.1
 
+## Build with
+- Python 3.7
+
 ## Special Thanks
 
 To the people from the link below. I used the code from there and changed a few things.
