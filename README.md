@@ -2,6 +2,7 @@
 Author: Tobias Menzel  
 Language: Python 3.7  
 Date: 09.10.2018
+Licence: GNU GENERAL PUBLIC LICENCE VERSION 3
 ---
 # PIP Package Updater
 
