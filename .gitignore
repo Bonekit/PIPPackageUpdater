@@ -1,13 +1,8 @@
-### VisualStudioCode ###
+# Ignore vscode
 .vscode/*
-.vscode/
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
-### PYCHARM ###
+# Ignore pycharm
 .idea/*
 
-### VIRTUAL ENVIRONMENT PYTHON ###
-venv/
+# Ignore pipenv
+pipenv

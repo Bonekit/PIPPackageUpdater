@@ -11,7 +11,7 @@
 from subprocess import call
 import pkg_resources
 
-# PIP Updater Function.
+# PIP Updater Function
 
 
 def main():
