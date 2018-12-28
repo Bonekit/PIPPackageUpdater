@@ -7,14 +7,15 @@
 # Python_version        : 3.7
 # ==========================================================================================
 
-# Import modules for the pip package updater.
+# Import modules
 from subprocess import call
 import pkg_resources
 
-# PIP Updater Function
+# Main function
 
 
 def main():
+    """ Get all packages and update"""
     packages = [dist.project_name for dist in pkg_resources.working_set]
     call("pip install --upgrade " + ' '.join(packages), shell=True)
 
