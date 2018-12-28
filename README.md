@@ -13,8 +13,9 @@ Little script to update all installed packages.
 Windows 10 Pro v1803
 with pip v18.1
 
-## Build with
+The script works in virtualenv, for pipenv you should not use this script. 
 
+## Build with
 - Python 3.7
 
 ## Special Thanks
