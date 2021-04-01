@@ -16,8 +16,6 @@
 
 ## About The Project
 
-[![product-screenshot]]()
-
 Little python script to update all installed packages.
 The script was tested with pip venv and virtualenv!
 
