@@ -1,25 +1,69 @@
----
-Author: Tobias Menzel  
-Language: Python 3.7  
-Date: 09.10.2018
-Licence: GNU GENERAL PUBLIC LICENCE VERSION 3
----
-# PIP Package Updater
+# README - PIP-PackageUpdater
 
-Little script to update all installed packages.  
+<!-- TABLE OF CONTENTS -->
 
-## Tested On
+## Index
 
-Windows 10 Pro v1803
-with pip v18.1
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-The script works in virtualenv, for pipenv you should not use this script. 
+<!-- ABOUT THE PROJECT -->
 
-## Build with
-- Python 3.7
+## About The Project
 
-## Special Thanks
+[![product-screenshot]]()
 
-To the people from the link below. I used the code from there and changed a few things.
+Little python script to update all installed packages.
+The script was tested with pip venv and virtualenv!
 
-[Stackoverflow](https://stackoverflow.com/questions/2720014/upgrading-all-packages-with-pi)
+### Built With
+
+- [Python](https://python.org)
+
+<!-- GETTING STARTED -->
+
+## Getting Started
+
+Read the install instructions below...
+
+### Installation
+
+1. Copy the main.py into your project folder.
+
+2. Go into your python environment.
+
+3. Start the script with the terminal.
+
+```
+Windows:    python .\updater.py
+MacOS:      python3 ./updater.py
+```
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+
+## Contact
+
+Tobias Menzel - [@BonekitDEV](https://twitter.com/BonekitDEV)
+
+Project Link: [Pip-PackageUpdater](https://github.com/Bonekit/PIP-PackageUpdater)
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## Acknowledgements
+
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [Choose an Open Source License](https://choosealicense.com)
+- [GitHub Pages](https://pages.github.com)
+- [Python](https://python.org)
+- [Stackoverflow](https://stackoverflow.com/questions/2720014/upgrading-all-packages-with-pi)

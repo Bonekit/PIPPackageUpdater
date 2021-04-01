@@ -1,8 +1,2 @@
 # Ignore vscode
 .vscode/*
-
-# Ignore pycharm
-.idea/*
-
-# Ignore pipenv
-pipenv
