@@ -31,7 +31,7 @@ Follow the instructions below to install and use the PIP Package Updater.
 
 ### Installation
 
-1. Copy the `main.py` file into your project folder.
+1. Copy the `updater.py` file into your project folder.
 
 2. Activate your Python environment.
 
