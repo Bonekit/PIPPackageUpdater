@@ -8,6 +8,7 @@
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
+- [Usage](#usage)
 - [License](#license)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -16,8 +17,7 @@
 
 ## About The Project
 
-Little python script to update all installed packages.
-The script was tested with pip venv and virtualenv!
+This Python script updates all installed packages using PIP. It is compatible with pip venv and virtualenv.
 
 ### Built With
 
@@ -27,20 +27,26 @@ The script was tested with pip venv and virtualenv!
 
 ## Getting Started
 
-Read the install instructions below...
+Follow the instructions below to install and use the PIP Package Updater.
 
 ### Installation
 
-1. Copy the main.py into your project folder.
+1. Copy the `main.py` file into your project folder.
 
-2. Go into your python environment.
+2. Activate your Python environment.
 
-3. Start the script with the terminal.
+3. Run the script using the terminal.
 
 ```
 Windows:    python .\updater.py
 MacOS:      python3 ./updater.py
 ```
+
+<!-- USAGE -->
+
+## Usage
+
+Simply run the script to update all installed packages using PIP.
 
 <!-- LICENSE -->
 
